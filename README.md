@@ -1,2 +1,2 @@
 # Matressed
-A cool game I made that combines tetris and 2048. 
+A cool game I made that combines tetris and 2048. You can compile it for your engine, but I already have a version for mac. For me, running it by double clicking did not work as the assets didnt load, so just go to the directory in the terminal and do ./main and it should run. The controls are WASD, the E and Q keys, and the arrows keys. A and D move the piece left nad right, w slams it down while s is fast fall, and q and e let you rotate it. Arrow keys are for playing 2048 at the very bottom. If ur lazy and dont feel like compiling i made a youtube video for you https://www.youtube.com/watch?v=V0VfC1lPK68
